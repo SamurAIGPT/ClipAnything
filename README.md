@@ -7,6 +7,8 @@ Just type your prompt.
 
 AI will clip the right moments for you from any video.
 
+### Youtube Tutorial -> https://youtu.be/R_3kexWz4TU
+
 ### Properties
 
 ##### Advanced Video Analysis
