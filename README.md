@@ -9,6 +9,8 @@ AI will clip the right moments for you from any video.
 
 ### Youtube Tutorial -> https://youtu.be/R_3kexWz4TU
 
+![hqdefault](https://github.com/user-attachments/assets/9689a74c-598a-4aab-b02e-54673941c2b9)
+
 ### Properties
 
 ##### Advanced Video Analysis
