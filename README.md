@@ -118,6 +118,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 - [AI-Youtube-Shorts-Generator](https://github.com/SamurAIGPT/AI-Youtube-Shorts-Generator) - Auto-generate YouTube Shorts
 - [Text-To-Video-AI](https://github.com/SamurAIGPT/Text-To-Video-AI) - Generate videos from text
+- [ai-creator-academy](https://github.com/Anil-matcha/ai-creator-academy) — free curriculum teaching creators how to monetize AI-clipped video content
 
 ## License
 
